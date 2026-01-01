@@ -1,11 +1,6 @@
 
 # Optimizing Solar Site Selection in Turkey using Genetic Algorithms and Particle Swarm Optimization
 
-## Authors
-- Ayah A M Hussein - 150220917
-- Sude Dilay Tunc - 150230716
-- Ramazan Hoşgör - 150210301
-
 ## Project Overview
 This project focuses on identifying the optimal locations for solar energy installations across Turkey by applying **Genetic Algorithms (GA)** and **Particle Swarm Optimization (PSO)**. The goal is to maximize solar potential while ensuring geographic diversity and minimizing proximity to existing solar plants.
 
